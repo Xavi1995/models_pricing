@@ -1,25 +1,25 @@
 {
-  "openai:gpt-3.5-turbo": {
+  "gpt-3.5-turbo": {
     "prompt": 0.0015,
     "completion": 0.002
   },
-  "openai:gpt-4": {
+  "gpt-4": {
     "prompt": 0.03,
     "completion": 0.06
   },
-  "anthropic:claude-2": {
+  "claude-2": {
     "prompt": 0.008,
     "completion": 0.024
   },
-  "azure:gpt-3.5": {
+  "gpt-3.5": {
     "prompt": 0.0015,
     "completion": 0.002
   },
-  "aws:claude-2.1": {
+  "claude-2.1": {
     "prompt": 0.008,
     "completion": 0.024
   },
-  "google:vertex-ai-codey": {
+  "vertex-ai-codey": {
     "prompt": 0.25,
     "completion": 0.50,
     "unit": "per_1000_characters"
