@@ -9,7 +9,7 @@
   },
   "gpt-4o-mini" : {
     "prompt" : 0.00015,
-    "completion" : 0,0006
+    "completion" : 0.0006
   },
   "claude-2": {
     "prompt": 0.008,
