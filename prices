@@ -1,31 +1,238 @@
 {
-  "gpt-3.5-turbo": {
-    "prompt": 0.0015,
-    "completion": 0.002
+  "gpt-4.5-preview" : {
+    "prompt" : 0.075,
+    "completion" : 0.15
   },
-  "gpt-4": {
-    "prompt": 0.03,
-    "completion": 0.06
+
+  "gpt-4.5-preview-2025-02-27" : {
+    "prompt" : 0.075,
+    "completion" : 0.15
   },
+
+  "gpt-4o" : {
+    "prompt" : 0.0025,
+    "completion" : 0.01
+  },
+
+  "gpt-4o-2024-11-20" : {
+    "prompt" : 0.0025,
+    "completion" : 0.01
+  },
+
+  "gpt-4o-2024-08-06" : {
+    "prompt" : 0.0025,
+    "completion" : 0.01
+  },
+
+  "gpt-4o-2024-05-13" : {
+    "prompt" : 0.005,
+    "completion" : 0.015
+  },
+
+  "gpt-4o-audio-preview" : {
+    "prompt" : 0.0025,
+    "completion" : 0.01
+  },
+
+  "gpt-4o-audio-preview-2024-12-17" : {
+    "prompt" : 0.0025,
+    "completion" : 0.01
+  },
+
+  "gpt-4o-audio-preview-2024-10-01" : {
+    "prompt" : 0.0025,
+    "completion" : 0.01
+  },
+
+  "gpt-4o-realtime-preview" : {
+    "prompt" : 0.005,
+    "completion" : 0.02
+  },
+
+  "gpt-4o-realtime-preview-2024-12-17" : {
+    "prompt" : 0.005,
+    "completion" : 0.02
+  },
+
+  "gpt-4o-realtime-preview-2024-10-01" : {
+    "prompt" : 0.005,
+    "completion" : 0.02
+  },
+
   "gpt-4o-mini" : {
     "prompt" : 0.00015,
     "completion" : 0.0006
   },
-  "claude-2": {
-    "prompt": 0.008,
-    "completion": 0.024
+
+  "gpt-4o-mini-2024-07-18" : {
+    "prompt" : 0.00015,
+    "completion" : 0.0006
   },
-  "gpt-3.5": {
-    "prompt": 0.0015,
-    "completion": 0.002
+
+  "gpt-4o-mini-audio-preview" : {
+    "prompt" : 0.00015,
+    "completion" : 0.0006
   },
-  "claude-2.1": {
-    "prompt": 0.008,
-    "completion": 0.024
+
+  "gpt-4o-mini-audio-preview-2024-12-17" : {
+    "prompt" : 0.00015,
+    "completion" : 0.0006
   },
-  "vertex-ai-codey": {
-    "prompt": 0.25,
-    "completion": 0.50,
-    "unit": "per_1000_characters"
-  }
+
+  "gpt-4o-mini-realtime-preview" : {
+    "prompt" : 0.0006,
+    "completion" : 0.0024
+  },
+
+  "gpt-4o-mini-realtime-preview-2024-12-17" : {
+    "prompt" : 0.0006,
+    "completion" : 0.0024
+  },
+
+  "o1" : {
+    "prompt" : 0.0015,
+    "completion" : 0.006
+  },
+
+  "o1-2024-12-17" : {
+    "prompt" : 0.0015,
+    "completion" : 0.006
+  },
+
+  "o1-preview-2024-09-12" : {
+    "prompt" : 0.0015,
+    "completion" : 0.006
+  },
+
+  "o1-pro" : {
+    "prompt" : 0.15,
+    "completion" : 0.6
+  },
+
+  "o1-pro-2025-03-19" : {
+    "prompt" : 0.15,
+    "completion" : 0.6
+  },
+
+  "o3-mini" : {
+    "prompt" : 0.0011,
+    "completion" : 0.0044
+  },
+
+  "o3-mini-2025-01-31" : {
+    "prompt" : 0.0011,
+    "completion" : 0.0044
+  },
+
+  "o1-mini" : {
+    "prompt" : 0.0011,
+    "completion" : 0.0044
+  },
+
+  "o1-mini-2024-09-12" : {
+    "prompt" : 0.0011,
+    "completion" : 0.0044
+  },
+
+  "gpt-4o-mini-search-preview" : {
+    "prompt" : 0.00015,
+    "completion" : 0.0006
+  },
+
+  "gpt-4o-mini-search-preview-2025-03-11" : {
+    "prompt" : 0.00015,
+    "completion" : 0.0006
+  },
+
+  "gpt-4o-search-preview" : {
+    "prompt" : 0.0025,
+    "completion" : 0.001
+  },
+
+  "gpt-4o-search-preview-2025-03-11" : {
+    "prompt" : 0.0025,
+    "completion" : 0.001
+  },
+
+  "gpt-4": {
+    "prompt": 0.03,
+    "completion": 0.06
+  },
+
+  "gpt-4-turbo" : {
+    "prompt" : 0.01,
+    "completion" : 0.03
+  },
+
+  "gpt-4-turbo-2024-04-09" : {
+    "prompt" : 0.01,
+    "completion" : 0.03, 
+  },
+
+  "gpt-4-0125-preview" : {
+    "prompt" : 0.01,
+    "completion" : 0.03,
+  },
+
+  "gpt-4-1106-preview" : {
+    "prompt" : 0.01,
+    "completion" : 0.03
+  },
+
+  "gpt-4-0613" : {
+    "prompt" : 0.03,
+    "completion" : 0.06
+  },
+
+  
+  "gpt-3.5-turbo": {
+    "prompt": 0.0005,
+    "completion": 0.0015
+  },
+
+  "gpt-3.5-turbo-0125" : {
+    "prompt" : 0.0005,
+    "completion" : 0.0015
+  },
+
+  "gpt-3.5-turbo-1106" : {
+    "prompt" : 0.001,
+    "completion" : 0.002
+  },
+
+  "gpt-3.5-turbo-0613" : {
+    "prompt" : 0.0015,
+    "completion" : 0.002
+  },
+
+  "gpt-3.5-0301" : {
+    "prompt" : 0.0015,
+    "completion" : 0.002
+  },  
+
+  "gpt-3.5-turbo-16k" : {
+    "prompt" : 0.003,
+    "completion" : 0.004
+  },
+
+  "deepseek-chat-standard" : {
+    "prompt" : 0.00027,
+    "completion" : 0.0011
+  },
+
+  "deepseek-chat-discount" : {
+    "prompt" : 0.000135,
+    "completion" : 0.00055
+  },
+
+  "deepseek-reasoner-standard" : {
+    "prompt" : 0.00055,
+    "completion" : 0.00219
+  },
+
+  "deepseek-reasoner-discount" : {
+    "prompt" : 0.000135,
+    "completion" : 0.00055
+  },
+
 }
