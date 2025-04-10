@@ -233,6 +233,5 @@
   "deepseek-reasoner-discount" : {
     "prompt" : 0.000135,
     "completion" : 0.00055
-  },
-
+  }
 }
