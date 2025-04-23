@@ -282,6 +282,6 @@
    "gemini-1.5-pro-latest" : {
       "prompt" : 0.00125,
       "completion" : 0.005
-   },
-   ""  
+   }
+    
 }
